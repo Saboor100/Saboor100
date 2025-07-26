@@ -6,9 +6,6 @@
 - 💼 My Linkedin Profile (https://www.linkedin.com/in/abdul-saboor-63343526a/) <br>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saboorrr._) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saboor8778@gmail.com) 
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saboorrr._) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saboor8778@gmail.com) 
